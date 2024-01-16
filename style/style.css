@@ -61,7 +61,7 @@ border: border-box;
 .banner-sec{
     background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url("Images/Group 13 (1) (1).png");
     background-color: rgb(80, 51, 13);
-    margin: 0 40%;
+    margin: 0 15%;
     left: center;
     align-items: center;
     display: grid;
